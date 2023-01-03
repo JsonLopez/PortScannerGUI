@@ -1,0 +1,62 @@
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 202.73.26.218 is open.
+Port: 53 Name: domain Desc: domain name services (such as BIND) of IP: 202.73.26.218 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 202.73.26.218 is open.
+Port: 110 Name: pop3 Desc: Post Office Protocol version 3 of IP: 202.73.26.218 is open.
+Port: 143 Name: imap Desc: Internet Message Access Protocol (IMAP) of IP: 202.73.26.218 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 202.73.26.218 is open.
+Port: 587 Name: submission Desc: Mail Message Submission Agent (MSA) of IP: 202.73.26.218 is open.
+Port: 993 Name: imaps Desc: Internet Message Access Protocol over Secure Sockets Layer (IMAPS) of IP: 202.73.26.218 is open.
+Port: 995 Name: pop3s Desc: Post Office Protocol version 3 over Secure Sockets Layer (POP3S) of IP: 202.73.26.218 is open.
+Port: 3306 Name: mysql Desc: MySQL database service of IP: 202.73.26.218 is open.
+Port: 465 Name: smtps Desc: Simple Mail Transfer Protocol over Secure Sockets Layer (SMTPS) of IP: 202.73.26.218 is open.
+Port: 5432 Name: postgres Desc: PostgreSQL database of IP: 202.73.26.218 is open.
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 216.150.240.60 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 216.150.240.60 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 117.5.229.196 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 117.5.229.196 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 74.208.236.72 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 74.208.236.72 is open.
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 195.78.67.28 is open.
+Port: 53 Name: domain Desc: domain name services (such as BIND) of IP: 195.78.67.28 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 195.78.67.28 is open.
+Port: 110 Name: pop3 Desc: Post Office Protocol version 3 of IP: 195.78.67.28 is open.
+Port: 143 Name: imap Desc: Internet Message Access Protocol (IMAP) of IP: 195.78.67.28 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 195.78.67.28 is open.
+Port: 587 Name: submission Desc: Mail Message Submission Agent (MSA) of IP: 195.78.67.28 is open.
+Port: 993 Name: imaps Desc: Internet Message Access Protocol over Secure Sockets Layer (IMAPS) of IP: 195.78.67.28 is open.
+Port: 995 Name: pop3s Desc: Post Office Protocol version 3 over Secure Sockets Layer (POP3S) of IP: 195.78.67.28 is open.
+Port: 3306 Name: mysql Desc: MySQL database service of IP: 195.78.67.28 is open.
+Port: 465 Name: smtps Desc: Simple Mail Transfer Protocol over Secure Sockets Layer (SMTPS) of IP: 195.78.67.28 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 46.30.215.71 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 46.30.215.71 is open.
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 51.79.176.205 is open.
+Port: 22 Name: ssh Desc: Secure Shell (SSH) service of IP: 51.79.176.205 is open.
+Port: 53 Name: domain Desc: domain name services (such as BIND) of IP: 51.79.176.205 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 51.79.176.205 is open.
+Port: 110 Name: pop3 Desc: Post Office Protocol version 3 of IP: 51.79.176.205 is open.
+Port: 143 Name: imap Desc: Internet Message Access Protocol (IMAP) of IP: 51.79.176.205 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 51.79.176.205 is open.
+Port: 587 Name: submission Desc: Mail Message Submission Agent (MSA) of IP: 51.79.176.205 is open.
+Port: 993 Name: imaps Desc: Internet Message Access Protocol over Secure Sockets Layer (IMAPS) of IP: 51.79.176.205 is open.
+Port: 995 Name: pop3s Desc: Post Office Protocol version 3 over Secure Sockets Layer (POP3S) of IP: 51.79.176.205 is open.
+Port: 465 Name: smtps Desc: Simple Mail Transfer Protocol over Secure Sockets Layer (SMTPS) of IP: 51.79.176.205 is open.
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 195.78.66.144 is open.
+Port: 53 Name: domain Desc: domain name services (such as BIND) of IP: 195.78.66.144 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 195.78.66.144 is open.
+Port: 110 Name: pop3 Desc: Post Office Protocol version 3 of IP: 195.78.66.144 is open.
+Port: 143 Name: imap Desc: Internet Message Access Protocol (IMAP) of IP: 195.78.66.144 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 195.78.66.144 is open.
+Port: 587 Name: submission Desc: Mail Message Submission Agent (MSA) of IP: 195.78.66.144 is open.
+Port: 993 Name: imaps Desc: Internet Message Access Protocol over Secure Sockets Layer (IMAPS) of IP: 195.78.66.144 is open.
+Port: 995 Name: pop3s Desc: Post Office Protocol version 3 over Secure Sockets Layer (POP3S) of IP: 195.78.66.144 is open.
+Port: 3306 Name: mysql Desc: MySQL database service of IP: 195.78.66.144 is open.
+Port: 465 Name: smtps Desc: Simple Mail Transfer Protocol over Secure Sockets Layer (SMTPS) of IP: 195.78.66.144 is open.
+Port: 21 Name: ftp Desc: File Transfer Protocol (FTP) port; sometimes used by File Service Protocol (FSP) of IP: 185.247.61.32 is open.
+Port: 80 Name: http Desc: HyperText Transfer Protocol (HTTP) for World Wide Web (WWW) services of IP: 185.247.61.32 is open.
+Port: 110 Name: pop3 Desc: Post Office Protocol version 3 of IP: 185.247.61.32 is open.
+Port: 143 Name: imap Desc: Internet Message Access Protocol (IMAP) of IP: 185.247.61.32 is open.
+Port: 443 Name: https Desc: Secure Hypertext Transfer Protocol (HTTP) of IP: 185.247.61.32 is open.
+Port: 587 Name: submission Desc: Mail Message Submission Agent (MSA) of IP: 185.247.61.32 is open.
+Port: 993 Name: imaps Desc: Internet Message Access Protocol over Secure Sockets Layer (IMAPS) of IP: 185.247.61.32 is open.
+Port: 995 Name: pop3s Desc: Post Office Protocol version 3 over Secure Sockets Layer (POP3S) of IP: 185.247.61.32 is open.
+Port: 465 Name: smtps Desc: Simple Mail Transfer Protocol over Secure Sockets Layer (SMTPS) of IP: 185.247.61.32 is open.
